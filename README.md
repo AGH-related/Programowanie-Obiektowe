@@ -1,4 +1,4 @@
-# Programowanie Obiektowe – Laboratoria AGH
+# Programowanie Obiektowe
 
 Repozytorium zawiera rozwiązania zadań realizowanych w ramach kursu **Programowanie Obiektowe**, prowadzonego na kierunku **Informatyka** na **AGH**.
 
